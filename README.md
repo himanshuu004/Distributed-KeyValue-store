@@ -90,6 +90,5 @@ Flask Documentation: https://flask.palletsprojects.com/
 Docker Compose Docs: https://docs.docker.com/compose/
 
 🙌 Author
-Praachi Bhagat
-LinkedIn
-Email: praachibhagat@gmail.com
+Himanshu Rawat
+Email: himanshuu004@gmail.com
