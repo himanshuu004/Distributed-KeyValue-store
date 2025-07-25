@@ -1,0 +1,17 @@
+version: "3"
+services:
+  node1:
+    build: .
+    command: python server.py 5000
+    ports:
+      - "5000:5000"
+  node2:
+    build: .
+    command: python server.py 5001
+    ports:
+      - "5001:5001"
+  node3:
+    build: .
+    command: python server.py 5002
+    ports:
+      - "5002:5002"
